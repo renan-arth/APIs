@@ -1,1 +1,15 @@
 .vs/
+# 🔧 Ignorar diretórios de build temporários
+SchoolAPI/Platform.Business/obj/Debug/net8.0/
+SchoolAPI/Platform.Entity/obj/Debug/net8.0/
+SchoolAPI/Platform.Repository/obj/Debug/net8.0/
+SchoolAPI/obj/Debug/net8.0/
+
+# 📁 Ignorar arquivos gerados automaticamente
+SchoolAPI/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+SchoolAPI/rpswa.dswa.cache.json
+SchoolAPI/SchoolAPI.AssemblyInfo.cs
+SchoolAPI/SchoolAPI.AssemblyInputs.cache
+SchoolAPI/SchoolAPI.GeneratedMSBuildEditorConfig.editorconfig
+SchoolAPI/SchoolAPI.GlobalUsings.g.cs
+SchoolAPI/staticwebassets.removed.txt
